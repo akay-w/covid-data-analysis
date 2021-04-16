@@ -1,5 +1,5 @@
 This is a project that I did for a class on edX (Python for Data Science from UC San Diego).
-I did a brief analysis of the Covid-19 infection/mortality data provided by the New York Times, with a focus on Central New Jersey.
+I did a brief analysis in Python of the Covid-19 infection/mortality data provided by the New York Times, with a focus on Central New Jersey.
 
 Data source: https://github.com/nytimes/covid-19-data
 
